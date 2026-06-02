@@ -1,4 +1,4 @@
-## Projects I've worked on:
+## Public projects I've worked on:
 
 
 1: [![FlappyAi](https://github-readme-stats.vercel.app/api/pin/?username=projektR-2024-2025&repo=FlappyAi)](https://github.com/projektR-2024-2025/FlappyAi)
