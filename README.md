@@ -58,7 +58,6 @@ Here is a curated selection of systems, algorithms, and applications I have deve
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Filip-Cvjeticanin&repo=LaminatTAR&theme=radical" alt="LaminatTAR" />
       </a>
     </td>
-    <td width="50%"></td> </tr>
 </table>
 
 * **LaminatTAR - research paper**
@@ -106,7 +105,6 @@ Here is a curated selection of systems, algorithms, and applications I have deve
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadija-Skugor&repo=EasyFlat&theme=radical" alt="EasyFlat" />
       </a>
     </td>
-    <td width="50%"></td> </tr>
 </table>
       
 * **EasyFlat**
