@@ -38,7 +38,7 @@
 
 **Project Focus:** An intelligent agent trained to master game physics using machine learning mechanics (such as Genetic Algorithms or Neural Networks).
 
-**Key Contributions:** Designed the underlying AI logic, adjusted fitness functions for accelerated model convergence, and decoupled the game loop from the rendering layer to speed up generation training.
+**Key Contributions:** Designed the underlying AI logic, adjusted fitness functions for accelerated model convergence, and developed a discrete game simulator which was the basis for future iterations of the game simulator.
 
 </details>
 
