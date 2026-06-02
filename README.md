@@ -1,7 +1,7 @@
 ## My projects:
 
 
-[![My Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Filip-Cvjeticanin&repo=LaminatTAR)](https://github.com/Filip-Cvjeticanin/LaminatTAR)
+1: [![LaminatTAR](https://github-readme-stats.vercel.app/api/pin/?username=Filip-Cvjeticanin&repo=LaminatTAR)](https://github.com/Filip-Cvjeticanin/LaminatTAR)
 
 <!--
 **Filip-Cvjeticanin/Filip-Cvjeticanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
