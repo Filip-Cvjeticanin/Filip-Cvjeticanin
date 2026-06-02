@@ -47,7 +47,8 @@ Here is a curated selection of systems, algorithms, and applications I have deve
 * **dynstack**
     * **Project Focus:** A high-performance, low-level dynamic stack data structure engineered for optimized memory management and execution speed.
     * **Key Contributions:** Implemented pointers/array expansion strategies, created efficient memory allocations, and wrote testing scripts to prevent memory leaks.
-* **Project Focus:** A Natural Language Processing (NLP) pipeline utilizing a transformer-based BERT architecture to perform extractive text summarization on dense biomedical literature from the PubMed dataset.
+* **NUMRE-25-26**
+    * **Project Focus:** A Natural Language Processing (NLP) pipeline utilizing a transformer-based BERT architecture to perform extractive text summarization on dense biomedical literature from the PubMed dataset.
     * **Key Contributions:** Engineered text preprocessing pipelines tailored for specialized medical terminology, fine-tuned the BERT model for sentence-level embedding extraction, and optimized the sentence-ranking algorithms to output highly accurate executive summaries.
 
 <table width="100%">
@@ -88,13 +89,6 @@ Here is a curated selection of systems, algorithms, and applications I have deve
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Tadija-Skugor/EasyFlat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadija-Skugor&repo=EasyFlat&theme=radical" alt="EasyFlat" />
-      </a>
-    </td>
-    <td width="50%"></td> </tr>
 </table>
 
 * **01-PaintCo**
@@ -103,6 +97,18 @@ Here is a curated selection of systems, algorithms, and applications I have deve
 * **02-DungeonSkillCrawl**
     * **Project Focus:** A retro/modern rogue-lite dungeon crawler featuring complex character progression tracking and specialized skill-tree architectures.
     * **Key Contributions:** Programmed procedural grid generation systems, integrated dynamic attribute calculators, and designed game state saving mechanics.
+ 
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Tadija-Skugor/EasyFlat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadija-Skugor&repo=EasyFlat&theme=radical" alt="EasyFlat" />
+      </a>
+    </td>
+    <td width="50%"></td> </tr>
+</table>
+      
 * **EasyFlat**
     * **Project Focus:** A collaborative, community-driven platform designed to simplify housing logistics, flat hunting, or property search management.
     * **Key Contributions:** Collaborated across an external repository codebase, contributed database/API endpoints, and managed shared branch workflows.
