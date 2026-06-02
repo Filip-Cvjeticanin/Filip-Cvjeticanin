@@ -53,7 +53,7 @@ Here is a curated selection of systems, algorithms, and applications I have deve
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <a href="https://github.com/Filip-Cvjeticanin/LaminatTAR">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Filip-Cvjeticanin&repo=LaminatTAR&theme=radical" alt="LaminatTAR" />
       </a>
@@ -101,7 +101,7 @@ Here is a curated selection of systems, algorithms, and applications I have deve
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <a href="https://github.com/Tadija-Skugor/EasyFlat">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadija-Skugor&repo=EasyFlat&theme=radical" alt="EasyFlat" />
       </a>
