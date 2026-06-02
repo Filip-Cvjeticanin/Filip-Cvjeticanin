@@ -66,12 +66,6 @@ Here is a curated selection of systems, algorithms, and applications I have deve
 
 ---
 
-### LLM Research Projects
-*Targeted technical studies, material layout computations, and specialized computational mathematics.*
-
-
----
-
 ### Indie Game Dev & Collaborative Spaces
 *Explorations in game loops, dynamic gameplay frameworks, operational dashboards, and open-source ecosystems.*
 
