@@ -49,9 +49,9 @@
 
 <br>
 
-**Project Focus:** A deep academic implementation of the **Ant Colony Optimization (ACO)** metaheuristic algorithm, targeted at solving complex combinatorial optimization challenges.
+**Project Focus:** A deep academic implementation of the **Ant Colony Optimization (ACO)** metaheuristic algorithm, targeted at solving a unique boolean function optimization problem.
 
-**Key Contributions:** Developed the pheromone update algorithms, path-finding heuristic calculations, and built data visualizations to graph optimization efficiency over time.
+**Key Contributions:** Personal project.
 
 </details>
 
