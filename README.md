@@ -125,7 +125,7 @@
 </table>
 
 <details open>
-<summary><b>📐 LaminatTAR - research paper</b></summary>
+<summary><b>LaminatTAR - research paper</b></summary>
 
 <br>
 
@@ -137,19 +137,6 @@
 
 ---
 
-# LLM Research Projects
-
-> *Targeted technical studies, material layout computations, and specialized computational mathematics.*
-
-<br>
-
-<div align="center">
-
-Research showcase coming soon 
-
-</div>
-
----
 
 # Indie Game Dev & Collaborative Spaces
 
