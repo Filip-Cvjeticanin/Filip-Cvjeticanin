@@ -85,9 +85,9 @@
 
 <br>
 
-**Project Focus:** A high-performance, low-level dynamic stack data structure engineered for optimized memory management and execution speed.
+**Project Focus:** Genetic Algorithm / GP-based solver for the DynStack container-stacking competition. It uses the ECF (Evolutionary Computation Framework) library in C++.
 
-**Key Contributions:** Implemented pointers/array expansion strategies, created efficient memory allocations, and wrote testing scripts to prevent memory leaks.
+**Key Contributions:** Implemented the heuristic overhead to the learnt world evaluation functions. Design of the feature handling for GP representing evaluation functions.
 
 </details>
 
@@ -98,9 +98,9 @@
 
 <br>
 
-**Project Focus:**  Genetic Algorithm / GP-based solver for the DynStack container-stacking competition. It uses the ECF (Evolutionary Computation Framework) library in C++.
+**Project Focus:**  Basic research paper summarizer based on a simple extractive method.
 
-**Key Contributions:** Implemented the heuristic overhead to the learnt world evaluation functions. Design of the feature handling for GP representing evaluation functions.
+**Key Contributions:** Defined the model architecture, loss function and designed the dataset preprocessing.
 
 </details>
 
@@ -131,7 +131,7 @@
 
 **Project Focus:** A codebase supporting the research paper which explores the multilinguality in post-training datasets in an incremental fashion.
 
-**Key Contributions:** Architected the layout generation algorithms, optimized computational formulas for accuracy, and ensured real-time responsiveness.
+**Key Contributions:** Architected the layout generation algorithms, optimized computational formulas for accuracy.
 
 </details>
 
@@ -164,7 +164,7 @@
 
 <br>
 
-**Project Focus:** An enterprise or client-facing operations management platform tailored to commercial painting, manufacturing, or canvas workflows.
+**Project Focus:** A painting game (like simple MS paint) with different game modes for 2 players.
 
 **Key Contributions:** Implemented the core architecture, built the state management system, and designed modular UI dashboards for operational tracking.
 
@@ -179,7 +179,7 @@
 
 **Project Focus:** A retro/modern rogue-lite dungeon crawler featuring complex character progression tracking and specialized skill-tree architectures.
 
-**Key Contributions:** Programmed procedural grid generation systems, integrated dynamic attribute calculators, and designed game state saving mechanics.
+**Key Contributions:** Programmed procedural grid generation systems, integrated dynamic attribute calculators, and designed game state saving mechanics (simple custom engine).
 
 </details>
 
